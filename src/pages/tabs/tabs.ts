@@ -16,4 +16,8 @@ export class TabsPage {
   constructor() {
 
   }
+
+  onTabSelect(tab: { index: number; id: string; }){
+    
+   }
 }
